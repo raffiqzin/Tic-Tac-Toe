@@ -1,0 +1,26 @@
+{
+  "name": "tic-tac-toe-1",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe for The Odin Project",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "daisyui": "^2.25.0",
+    "tailwindcss": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "tailwindcss build src/input.css -o dist/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffiqzin/Tic-Tac-Toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffiqzin/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/raffiqzin/Tic-Tac-Toe#readme"
+}
